@@ -1,3 +1,26 @@
+
+## Класснеймы тайников
+
+```AR_Stash_Ammunition_Box```
+```AR_Stash_Army_Crate```
+```AR_Stash_Army_Weapon_Crate```
+```AR_Stash_Broken_Wooden_Crate```
+```AR_Stash_Covered_Wooden_Crate```
+```AR_Stash_Metal_Camping_Case_Black```
+```AR_Stash_Metal_Camping_Case_Green```
+```AR_Stash_Metal_Camping_Case_Tan```
+```AR_Stash_Military_Cargo_Case```
+```AR_Stash_Barrel```
+```AR_Stash_Trash_Can```
+```AR_Stash_Travel_Bag```
+```AR_Stash_Wooden_Military_Crate```
+```AR_Stash_Trap```
+```AR_Stash_Old_Safe```
+```AR_Stash_Jarrycan```
+```AR_Stash_Chest```
+
+---
+
 ## Тайпсы тайников
 
 ```
