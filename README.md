@@ -80,22 +80,7 @@
 
 
 
-## 5. Распределение тайников по способу открытия
-
-
-| Способ открытия          | Тайники                                                                                                                                                                                                                                               |
-| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🖐 Только руками         | `AR_Stash_Army_Crate`, `AR_Stash_Army_Weapon_Crate`, `AR_Stash_Covered_Wooden_Crate`, `AR_Stash_Metal_Camping_Case_Black/Green/Tan`, `AR_Stash_Barrel`, `AR_Stash_Travel_Bag`, `AR_Stash_Wooden_Military_Crate`, `AR_Stash_Trap`, `AR_Stash_Jarrycan` |
-| 🔑🔧 Ключ ИЛИ инструмент | `AR_Stash_Ammunition_Box` (ключ `AR_Key_1` / `Crowbar`), `AR_Stash_Military_Cargo_Case` (ключ `AR_Key_2` / `FirefighterAxe`)                                                                                                                          |
-| 🔧 Только инструмент     | `AR_Stash_Broken_Wooden_Crate` (`Hatchet`), `AR_Stash_Trash_Can` (`Pickaxe`)                                                                                                                                                                          |
-| 🔑 Только ключ           | `AR_Stash_Old_Safe` (`AR_Key_3`), `AR_Stash_Chest` (`AR_Key_4`)                                                                                                                                                                                       |
-
-
----
-
-
-
-## 6. Готовые конфиги (кладутся в `AR_Stash_Configs\<Класс>_Config.json`) ПРИМЕРЫ:
+## 5. Готовые конфиги (кладутся в `AR_Stash_Configs\<Класс>_Config.json`) ПРИМЕРЫ:
 
 
 
@@ -488,7 +473,7 @@
 
 ---
 
-## 7. StashSpawner — настройки точек спавна на карте (`AR_Stash_Spawners\<Класс>_Spawner.json`)
+## 6. StashSpawner — настройки точек спавна на карте (`AR_Stash_Spawners\<Класс>_Spawner.json`)
 
 Cистема отвечает за то,
 **где на карте** и **сколько штук** каждого типа тайника появляется, и за их респавн после того, как
